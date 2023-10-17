@@ -1,4 +1,4 @@
-# YAGSL-3739 ![image](https://github.com/Brendan302002/YAGSL-3739/assets/113969780/7155b1a8-cfe8-416b-a215-5827dc70d930)
+# YAGSL-3739 
 
 
 -------------------------------------------------------------------------------------------
@@ -13,7 +13,7 @@ for you own testing. This code will be tested by 3739, on a neo swerve chassis.
 Things to add:
 - YAGSL DriveBase 
 - Add zeroing of robot
-- Apriltag Implementation
+- Apriltag Implementation                            ![image](https://github.com/Brendan302002/YAGSL-3739/assets/113969780/7155b1a8-cfe8-416b-a215-5827dc70d930)
 - Limelight Tracking
 - Auto Rotational Alignment
 - On Command paths
