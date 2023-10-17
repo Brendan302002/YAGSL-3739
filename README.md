@@ -1,4 +1,5 @@
-# YAGSL-3739 ![image](https://github.com/Brendan302002/2024-FRC-YAGSL/assets/113969780/ca421d55-d216-4b9b-8ad8-28088bd4ea2b)
+# YAGSL-3739 ![image](https://github.com/Brendan302002/YAGSL-3739/assets/113969780/7155b1a8-cfe8-416b-a215-5827dc70d930)
+
 
 -------------------------------------------------------------------------------------------
 This is a java implementation of the YAGSL Library found here: https://github.com/BroncBotz3481/YAGSL, 
@@ -22,4 +23,5 @@ Website: https://oakbotics.ca/
 TBA: https://www.thebluealliance.com/team/3739
 
 
-![image](https://github.com/Brendan302002/2024-FRC-YAGSL/assets/113969780/1e02aa51-94a2-49d5-9b61-239494ea611f)
+![image](https://github.com/Brendan302002/YAGSL-3739/assets/113969780/5c5c4fa9-c580-4e67-a430-efd4e9688d5d)
+
